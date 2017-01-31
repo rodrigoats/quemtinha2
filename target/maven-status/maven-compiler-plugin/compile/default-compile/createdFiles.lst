@@ -1,0 +1,16 @@
+io/swagger/model/Reserva.class
+io/swagger/model/ErrorModel.class
+io/swagger/api/ApiOriginFilter.class
+io/swagger/Swagger2SpringBoot.class
+io/swagger/api/CadastroReservaApi.class
+io/swagger/api/ApiResponseMessage.class
+io/swagger/Swagger2SpringBoot$ExitException.class
+io/swagger/configuration/HomeController.class
+io/swagger/model/Usuario.class
+io/swagger/api/CadastroUsuarioApiController.class
+io/swagger/api/NotFoundException.class
+io/swagger/api/CadastroUsuarioApi.class
+io/swagger/configuration/SwaggerDocumentationConfig.class
+io/swagger/api/CadastroReservaApiController.class
+io/swagger/RFC3339DateFormat.class
+io/swagger/api/ApiException.class
